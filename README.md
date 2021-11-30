@@ -15,9 +15,7 @@ For all the three requirements it was implmented an ETL process that takes the d
 ## This is the database ER model. 
 
 
-
-<img src="https://github.com/jglobaton10/Visibleinfrastructure/blob/main/diagrama.jpg" class="img-responsive" alt="">
-
+<img src="diagrama.jpg"  alt="Avatar" style="width:100%">
 
 This [file](https://github.com/jglobaton10/Visibleinfrastructure/blob/main/database.sql) can be used to create and populate the tables. 
 
