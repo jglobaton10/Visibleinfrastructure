@@ -18,4 +18,4 @@ This is the database ER model.
 <img src="https://github.com/jglobaton10/Visibleinfrastructure/blob/main/images/diagram.svg" width="80%"/>
 
 
-<iframe width="600" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=7e610e80-2e16-4aff-aab1-b27d87e988bd&autoAuth=true&ctid=4488e84d-b763-4538-aca2-e5e104ce5246&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXVzLW5vcnRoLWNlbnRyYWwtZy1wcmltYXJ5LXJlZGlyZWN0LmFuYWx5c2lzLndpbmRvd3MubmV0LyJ9" frameborder="0" allowFullScreen="true"></iframe>
+<iframe width="700" height="450" src="https://app.powerbi.com/reportEmbed?reportId=7e610e80-2e16-4aff-aab1-b27d87e988bd&autoAuth=true&ctid=4488e84d-b763-4538-aca2-e5e104ce5246&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXVzLW5vcnRoLWNlbnRyYWwtZy1wcmltYXJ5LXJlZGlyZWN0LmFuYWx5c2lzLndpbmRvd3MubmV0LyJ9" frameborder="0" allowFullScreen="true"></iframe>
