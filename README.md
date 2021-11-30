@@ -16,7 +16,7 @@ For all the three requirements it was implmented an ETL process that takes the d
 
 
 
-<img src="/blob/main/images/diagrama.jpeg" width="45%"/>
+<img src="https://github.com/jglobaton10/Visibleinfrastructure/blob/main/diagrama.JPEG" width="100%"/>
 
 
 
