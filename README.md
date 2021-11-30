@@ -5,9 +5,11 @@ Infraestructura visible is an initiative of University of the Andes whose object
 
 In this course I was tasked with consultant duties. The organization gave us data related with airports and flights from Colombia and they were hoping to solve a set of analytical requirements. The ones that I aimed to solve are listed next:
   
-  #### Visualize the number of passengers tranported in a range of dates within Colombia.
-  #### Visualize the number of empty seats in flights in a range of dates within Colombia.  
-  ####  Analize the relationship between the GDP and the number of flights in the department of Colombia. 
+  **1. Visualize the number of passengers tranported in a range of dates within Colombia.**
+  
+  **2. Visualize the number of empty seats in flights in a range of dates within Colombia.**  
+  
+  **3.  Analize the relationship between the GDP and the number of flights in the department of Colombia.** 
   
 For all the three requirements it was implmented an [ETL process](https://github.com/jglobaton10/Visibleinfrastructure/blob/main/ETL.ipynb) that takes the data from a github repository, process it using pyspark and then load into a SQL server database. 
 
