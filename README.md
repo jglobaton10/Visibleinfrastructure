@@ -25,13 +25,13 @@ This [file](https://github.com/jglobaton10/Visibleinfrastructure/blob/main/datab
 
 
 <p align="justify">
-For the first two requirements it was implemented the following dashboard. The user can track 4 KPI's: total number of passanger, average number of passenger, total number of empty chairs and average number of empty chairs. Also, the user can analize the number of passenger and empty chairs by airport, time and type of airport.  
+For the first two requirements the following dashboard dashboard was implemented. The user can track 4 KPI's: total number of passanger, average number of passenger, total number of empty chairs and average number of empty chairs. Also, the user can analyze the number of passenger and empty chairs by airport, time and type of airport.  
 </p>
 
 <iframe width="680" height="420" src="https://app.powerbi.com/view?r=eyJrIjoiNTg2NmRjYzEtYWM0NS00NzQzLTliMGMtNDI1NTY1ZDc1ZjBmIiwidCI6IjQ0ODhlODRkLWI3NjMtNDUzOC1hY2EyLWU1ZTEwNGNlNTI0NiIsImMiOjN9&pageName=ReportSection" frameborder="0" allowFullScreen="true"></iframe>
 
 <p align="justify">
-This is the dashboard implemented for the third requirement. In this case, it has two KPI's total number of passengers and average GDP. The user can analyze the number of flighs and the average GDP per departmente, as well as the GDP change over time, the number of flights per airline and per airport.  
+This is the dashboard implemented for the third requirement. In this case, it has two KPI's: total number of passengers and average GDP. The user can analyze the number of flighs and the average GDP per departmente, as well as the GDP change over time, the number of flights per airline and per airport.  
 </p>
 
 <iframe width="680" height="420" src="https://app.powerbi.com/view?r=eyJrIjoiNzM5MzIzYzMtY2E1Yy00MDg3LWI3ODYtMzQ3NDVlNGE5OGRmIiwidCI6IjQ0ODhlODRkLWI3NjMtNDUzOC1hY2EyLWU1ZTEwNGNlNTI0NiIsImMiOjN9&pageName=ReportSection" frameborder="0" allowFullScreen="true"></iframe>
