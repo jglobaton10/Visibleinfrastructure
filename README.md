@@ -13,7 +13,7 @@ In this course I was tasked with consultant duties. The organization gave us dat
   **3.  Analize the relationship between the GDP and the number of flights in the department of Colombia.** 
 
 <p align="justify">
-For all the three requirements it was implmented an [ETL process](https://github.com/jglobaton10/Visibleinfrastructure/blob/main/ETL.ipynb) that takes the data from a github repository, process it using pyspark and then load into a SQL server database. 
+For all the three requirements it was implemented an [ETL process](https://github.com/jglobaton10/Visibleinfrastructure/blob/main/ETL.ipynb) that takes the data from a github repository, process it using pyspark and then load into a SQL server database. 
 </p>
 
 ## Database ER model. 
